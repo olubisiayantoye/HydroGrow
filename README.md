@@ -2,7 +2,7 @@
 Hydroponics Web App using Supabase
 Core Features
 1. User Authentication (Supabase Auth)
-  a. Email/password login
+   a. Email/password login
   b. Social login (Google, GitHub, etc.)
   c. Role-based access (e.g., admin, grower)
 
